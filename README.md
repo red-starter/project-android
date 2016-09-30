@@ -37,3 +37,4 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+Setting up the environment on ubuntu was a lot of effort, so I switched to a mac which made it really easy. 
